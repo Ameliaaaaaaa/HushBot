@@ -1,0 +1,63 @@
+{
+  "Discord": {
+    "Token": "DISCORD BOT TOKEN",
+    "Server": "DISCORD SERVER TO REGISTER SLASH COMMANDS"
+  },
+  "Lovense": {
+    "Token": "DEVELOPER TOKEN FROM https://www.lovense.com/user/developer/info",
+    "UID": "JUST PUT SOME RANDOM STRING HERE"
+  },
+  "Settings": {
+    "QueueCommands": true
+  },
+  "Options": {
+    "Vibrate:5:30": {
+      "Description": "Vibrate at 5 strength for 30 seconds.",
+      "Command": "Function",
+      "Action": "Vibrate:5",
+      "Time": 30
+    },
+    "Vibrate:7:20": {
+      "Description": "Vibrate at 7 strength for 20 seconds.",
+      "Command": "Function",
+      "Action": "Vibrate:7",
+      "Time": 20
+    },
+    "Vibrate:10:10": {
+      "Description": "Vibrate at 10 strength for 10 seconds.",
+      "Command": "Function",
+      "Action": "Vibrate:10",
+      "Time": 10
+    },
+    "Vibrate:20:10": {
+      "Description": "Vibrate at 20 strength for 10 seconds.",
+      "Command": "Function",
+      "Action": "Vibrate:20",
+      "Time": 10
+    },
+    "Pulse:10": {
+      "Description": "Pulse for 10 seconds.",
+      "Command": "Preset",
+      "Name": "pulse",
+      "Time": 10
+    },
+    "Wave:10": {
+      "Description": "Wave for 10 seconds.",
+      "Command": "Preset",
+      "Name": "wave",
+      "Time": 10
+    },
+    "Fireworks:10": {
+      "Description": "Fireworks for 10 seconds.",
+      "Command": "Preset",
+      "Name": "fireworks",
+      "Time": 10
+    },
+    "Earthquake:10": {
+      "Description": "Earthquake for 10 seconds.",
+      "Command": "Preset",
+      "Name": "earthquake",
+      "Time": 10
+    }
+  }
+}

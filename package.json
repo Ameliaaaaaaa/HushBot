@@ -1,0 +1,13 @@
+{
+  "name": "HushBot",
+  "version": "1.0.0",
+  "description": "A Discord bot made to control the Lovense Hush device.",
+  "repository": "https://github.com/Ameliaaaaaaa/HushBot",
+  "author": "Amelia",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "axios": "^0.26.0"
+  }
+}
