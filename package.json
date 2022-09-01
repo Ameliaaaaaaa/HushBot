@@ -5,9 +5,9 @@
   "repository": "https://github.com/Ameliaaaaaaa/HushBot",
   "author": "Amelia",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "discord.js": "^14.3.0"
   },
   "devDependencies": {
-    "axios": "^0.26.0"
+    "axios": "^0.27.2"
   }
 }
