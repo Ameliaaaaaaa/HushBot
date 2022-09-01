@@ -1,5 +1,5 @@
 # HushBot
-A Discord bot made to control the Lovense Hush device.
+A Discord bot made to control the Lovense Hush and Edge device.
 
 # Setup
 Setting up HushBot is fairly simple.
